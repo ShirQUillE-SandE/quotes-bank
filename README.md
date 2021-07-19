@@ -10,7 +10,7 @@ Delete any quote you see not fit to be there
     - Shirquille Sande
   
 ## Setup instructions
-    - 
+    - simply type in a quote and vote
 ​
 ## BDD
     As a user, with this tool you;
@@ -33,7 +33,7 @@ Delete any quote you see not fit to be there
 ## Contact information
     - Email: shirquille.sande@student.moringaschool.com
     -github name: Shirquille Sande
-
+     
   
 ## License and Copyright information
     Copyright 2021 Shirquille Sande

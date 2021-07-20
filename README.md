@@ -28,10 +28,12 @@ Delete any quote you see not fit to be there
     - CSS
     - Angular
     - JS 
-  
+            
 
 ## Contact information
     - Email: shirquille.sande@student.moringaschool.com
+    -github name: Shirquille Sande
+    -github name: Shirquille Sande
     -github name: Shirquille Sande
      
   
